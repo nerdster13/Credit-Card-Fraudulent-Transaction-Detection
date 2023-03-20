@@ -15,9 +15,9 @@ In this challenge, we will explore three machine learning algorithms: Logisitc R
 ## Evaluation Criteria:
 We will evaluate the performance of our predictive model using the following criteria:
 
-Accuracy: the percentage of correctly classified transactions.
-Precision Score: the proportion of true positives to the total number of positive predictions.
-Recall: the proportion of true positives to the total number of actual positives.
+Accuracy: the percentage of correctly classified transactions.   
+Precision Score: the proportion of true positives to the total number of positive predictions.   
+Recall: the proportion of true positives to the total number of actual positives.    
 F-1 score: the harmonic mean of precision and recall.
 
 ## Note:
